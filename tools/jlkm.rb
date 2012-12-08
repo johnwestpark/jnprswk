@@ -1,4 +1,4 @@
-#!ruby
+#!/usr/bin/env ruby
 #*
 #* Author         : Jeremy Schulman
 #* Program        : jlkm
@@ -36,7 +36,7 @@
 #* USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF JUNIPER HAS BEEN ADVISED OF 
 #* THE POSSIBILITY OF SUCH DAMAGES.
 #*
-require 'singleton'
+require 'rubygems'
 require 'optparse'
 require 'highline/import'
 require 'jnprswk'
