@@ -23,6 +23,10 @@ INSTALLATION:
 * Copy the command line programs from the tools directory to your favorite location
 
 
+SPECIAL THANKS
+---
+Special thanks to James Nickerson (jNiker) for his help on this effort!
+
 BUGS & COMMENTS:
 ----------------
 Please give bug reports and other feedback to Jeremy Schulman, <jschulman@juniper.net>
